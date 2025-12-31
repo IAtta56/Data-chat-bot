@@ -1,0 +1,14 @@
+# Ignore in Docker build
+__pycache__/
+*.pyc
+.git/
+.gitignore
+*.md
+database.db
+uploads/
+vector_store/
+frontend/node_modules/
+frontend/.svelte-kit/
+.env
+.vscode/
+.idea/
